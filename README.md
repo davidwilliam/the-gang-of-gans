@@ -41,7 +41,7 @@ GAN/
 │       ├── generate_deep_convolutional.py
 │       ├── checkpoints/
 │       └── gan_plots/
-├── gan_env/  # Optional: local virtual environment
+├── gan_env/  # this is the local virtual environment
 └── README.md
 ```
 
@@ -65,7 +65,10 @@ source gan_env/bin/activate  # On Windows: gan_env\Scripts\activate
 
 ```bash
 pip install --upgrade pip
+python3 -m venv test_env
+source test_env/bin/activate
 pip install -r requirements.txt
+python demos/vanilla_gan/train_vanilla_gan.py
 ```
 
 If you don’t have a `requirements.txt`, here’s the list:

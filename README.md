@@ -43,7 +43,6 @@ GAN/
 │       ├── generate_deep_convolutional.py
 │       ├── checkpoints/
 │       └── gan_plots/
-├── gan_env/  # this is the local virtual environment
 └── README.md
 ```
 

@@ -8,6 +8,12 @@ This is a toy project for showcasing three powerful types of Generative Adversar
 
 This repository contains ready-to-run demo scripts, visual outputs, loss plots, and model checkpoints. Whether you want to learn how GANs work or generate new data with a trained model, everything is organized and accessible.
 
+## Substack
+
+This repository is a resource for the newsletter I publishedo n Substack:
+
+[The Gang of GANs.](https://davidwsilva.substack.com/p/the-gang-of-gans)
+
 ## Why this project exists
 
 GANs are among the most fascinating and impactful advances in machine learning. But many people only encounter them in abstract theory or through celebrity face generators. This project takes a different route: **simple, concrete, and insightful demos** that show GANs in action across three real-world-inspired tasks:

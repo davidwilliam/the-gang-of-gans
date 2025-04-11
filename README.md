@@ -12,7 +12,7 @@ This repository contains ready-to-run demo scripts, visual outputs, loss plots, 
 This repository is a companion to the article I published on Substack:
 **[The Gang of GANs](https://davidwsilva.substack.com/p/the-gang-of-gans)**
 
-## Why this project exists
+## Why this project?
 GANs are among the most fascinating and impactful advances in machine learning. But many people only encounter them in abstract theory or through celebrity face generators. This project takes a different route: **simple, concrete, and insightful demos** that show GANs in action across three real-world-inspired tasks:
 
 1. **Paint a Pattern**: A simple Vanilla GAN learns to recreate a circular distribution.
